@@ -1,4 +1,4 @@
-import app.Function.Basics as Basics
+import Function.Basics as Basics
 import numpy as np, cmath
 from cv2.typing import MatLike
 

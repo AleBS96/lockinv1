@@ -1,5 +1,6 @@
 import cv2
 import  numpy as np
+from Function.Methods import Fourier as Fou
 from cv2.typing import MatLike
 
 
